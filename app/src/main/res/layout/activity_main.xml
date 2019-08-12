@@ -158,6 +158,7 @@
         android:layout_marginTop="84dp"
         android:text="CLEAR"
         android:background="#DF2020"
+        android:textColor="#ffffff"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.498"
         app:layout_constraintStart_toStartOf="parent"
